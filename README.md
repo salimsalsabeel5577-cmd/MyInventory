@@ -1,0 +1,2 @@
+# MyInventory
+inventory accounting app
